@@ -8,7 +8,7 @@
 第五章 全景视频QoE技术
 第六章 相关国际标准组织
 
-秉承开、共享、进化的精神，我们将定期更新最新稿到Github上：
+秉承公开、共享、进化的精神，我们将定期更新最新稿到Github上：
 https://github.com/sjtu-medialab/ImmersiveVideoTech
 
 关于虚拟现实的基础知识，本书中没有过多介绍，建议读者参阅我们翻译的《Virtual Reality》中文译版，这本书的英文版本由UIUC的Steven M. LaValle教授2016年网上免费公开，内容全而新。中文译本可以从这里获得：
