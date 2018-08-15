@@ -14,7 +14,7 @@ https://github.com/sjtu-medialab/ImmersiveVideoTech
 关于虚拟现实的基础知识，本书中没有过多介绍，建议读者参阅我们翻译的《Virtual Reality》中文译版，这本书的英文版本由UIUC的Steven M. LaValle教授2016年网上免费公开，内容全而新。中文译本可以从这里获得：
 https://github.com/sjtu-medialab/VirtualReality-Chinese
 
-我们欢迎来自读者任何问题、批评、建议，以期不断完善更新，可以直接在Github中提出issue，或通过邮箱与我们联系：sjtu_medialab@163.com
+我们欢迎来自读者任何问题、批评、建议，定期不断完善更新，可以直接在Github中提出issue，或通过邮箱与我们联系：sjtu_medialab@163.com
 
 注：版权归作者所有，未经授权禁止转载、摘编、复制或建立镜像，禁止未经授权的商业使用行为。
  
